@@ -15,3 +15,5 @@ The technology used:
 
     demo:https://siddhant08-lol.github.io/jewelry/
 
+    note:the collection button doesnt work it for showpiece.
+
